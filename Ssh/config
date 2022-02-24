@@ -1,0 +1,9 @@
+Host github.com
+  HostName github.com
+  IdentityFile ~/.ssh/gitkey
+  User MatteoGaetzner
+
+Host git.tu-berlin.de
+  HostName git.tu-berlin.de
+  IdentityFile ~/.ssh/gitkey
+  User matteo
