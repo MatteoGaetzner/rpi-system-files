@@ -201,6 +201,8 @@ alias vifme="nvim $HOME/.config/vifm/vifmrc"
 
 alias zshe="nvim $HOME/.zshrc; zsh"
 
+alias backupe="nvim $HOME/Sync/System/Backup/small_backup.sh"
+
 alias xinite="sudo nvim $HOME/.xinitrc"
 
 alias gu="git add -u; git commit -m \"$@\"; git push"
