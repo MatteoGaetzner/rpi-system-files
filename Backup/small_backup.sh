@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/zsh
 
 DIRSIZE_LIMIT=25000
 
